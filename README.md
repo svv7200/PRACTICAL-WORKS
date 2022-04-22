@@ -29,9 +29,9 @@ ____
 [pw7](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw7.cpp)
 *Topic: Линейные динамические списки (Вариант 4)*
 ____
-## **Practical Work №8** :heavy_minus_sign:
+## **Practical Work №8** :grey_question:
 [pw8](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw8.cpp)
-*Topic: ---*
+*Topic: Линейный список стек и его применение (Вариант 1)*
 ____
 ## **Practical Work №9 ** :heavy_minus_sign:
 [pw9](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw9.cpp)
