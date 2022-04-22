@@ -1,53 +1,66 @@
-#PRACTICAL WORKS:
-
-Practical Work № 1
-Topic: Простые алгоритмы внутренней сортировки массивов (Простой вставки)
-
-Practical Work № 2
-Topic: Усовершенствованные алгоритмы внутренней сортировки массивов (Сортировка Шелла)
-
-Practical Work № 3
-Topic: Алгоритмы внешней сортировки массивов (Простое слияние)
-
-Practical Work № 4
-Topic: Алгоритм поиска в неотсортированных массивах
-
-Practical Work № 5
-Topic: Алгоритм поиска в отсортированных массивах (Двоичного поиска)
-
-Practical Work № 6
-Topic: Алгоритмы поиска строк в тексте (Прямого поиска строки)
-
-Practical Work №7
-Topic: ---
-
-Practical Work №8
-Topic: ---
-
-Practical Work №9
-Topic: ---
-
-Practical Work №10
-Topic: ---
-
-Practical Work №11
-Topic: ---
-
-Practical Work №12
-Topic: ---
-
-Practical Work №13
-Topic: ---
-
-Practical Work №14
-Topic: ---
-
-Practical Work №15
-Topic: ---
-
-Practical Work №16
-Topic: ---
+# PRACTICAL WORKS:
 
 
-
-
+## **Practical Work № 1** :heavy_plus_sign:
+[pw1](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw1.cpp)
+*Topic: Простые алгоритмы внутренней сортировки массивов* (Простой вставки)
+____
+## **Practical Work № 2** :heavy_plus_sign:
+[pw2](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw2.cpp)
+*Topic: Усовершенствованные алгоритмы внутренней сортировки массивов* (Сортировка Шелла)
+____
+## **Practical Work № 3** :heavy_plus_sign:
+[pw3](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw3.cpp)
+*Topic: Алгоритмы внешней сортировки массивов* (Простое слияние)
+____
+## **Practical Work № 4** :heavy_plus_sign:
+[pw4](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw4.cpp)
+*Topic: Алгоритм поиска в неотсортированных массивах*
+____
+## **Practical Work № 5** :heavy_plus_sign:
+[pw5](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw5.cpp)
+*Topic: Алгоритм поиска в отсортированных массивах* (Двоичного поиска)
+____
+## **Practical Work № 6** :heavy_plus_sign:
+[pw6](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw6.cpp)
+*Topic: Алгоритмы поиска строк в тексте* (Прямого поиска строки)
+____
+## **Practical Work №7** :heavy_minus_sign:
+[pw7](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw7.cpp)
+*Topic: ---*
+____
+## **Practical Work №8** :heavy_minus_sign:
+[pw8](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw8.cpp)
+*Topic: ---*
+____
+## **Practical Work №9 ** :heavy_minus_sign:
+[pw9](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw9.cpp)
+*Topic: ---*
+____
+## **Practical Work №10** :heavy_minus_sign:
+[pw10](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw10.cpp)
+*Topic: ---*
+____
+## **Practical Work №11** :heavy_minus_sign: 
+[pw11](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw11.cpp)
+*Topic: ---*
+____
+## **Practical Work №12** :heavy_minus_sign: 
+[pw12](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw12.cpp)
+*Topic: ---*
+____
+## **Practical Work №13** :heavy_minus_sign: 
+[pw13](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw13.cpp)
+*Topic: ---*
+____
+## **Practical Work №14** :heavy_minus_sign: 
+[pw14](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw14.cpp)
+*Topic: ---*
+____
+## **Practical Work №15** :heavy_minus_sign: 
+[pw15](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw15.cpp)
+*Topic: ---*
+____
+## **Practical Work №16** :heavy_minus_sign: 
+[pw16](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw16.cpp)
+*Topic: ---*
