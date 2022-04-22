@@ -21,13 +21,13 @@ ____
 [pw5](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw5.cpp)
 *Topic: Алгоритм поиска в отсортированных массивах* (Двоичного поиска)
 ____
-## **Practical Work № 6** :heavy_plus_sign:
+## **Practical Work № 6** :grey_question:
 [pw6](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw6.cpp)
 *Topic: Алгоритмы поиска строк в тексте* (Прямого поиска строки)
 ____
-## **Practical Work №7** :heavy_minus_sign:
+## **Practical Work №7** :grey_question:
 [pw7](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw7.cpp)
-*Topic: ---*
+*Topic: Линейные динамические списки (Вариант 4)*
 ____
 ## **Practical Work №8** :heavy_minus_sign:
 [pw8](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw8.cpp)
