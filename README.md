@@ -33,9 +33,9 @@ ____
 [pw8](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw8.cpp)
 *Topic: Линейный список стек и его применение (Вариант 1)*
 ____
-## **Practical Work №9** :heavy_minus_sign:
+## **Practical Work №9** :grey_question:
 [pw9](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw9.cpp)
-*Topic: ---*
+*Topic: Линейный список Очередь (Вариант 1)*
 ____
 ## **Practical Work №10** :heavy_minus_sign:
 [pw10](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw10.cpp)
