@@ -21,15 +21,15 @@ ____
 [pw5](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw5.cpp)
 *Topic: Алгоритм поиска в отсортированных массивах* (Двоичного поиска)
 ____
-## **Practical Work № 6** :grey_question:
+## **Practical Work № 6** :heavy_plus_sign:
 [pw6](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw6.cpp)
 *Topic: Алгоритмы поиска строк в тексте* (Прямого поиска строки)
 ____
-## **Practical Work №7** :grey_question:
+## **Practical Work №7** :heavy_plus_sign:
 [pw7](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw7.cpp)
 *Topic: Линейные динамические списки (Вариант 4)*
 ____
-## **Practical Work №8** :grey_question:
+## **Practical Work №8** :heavy_plus_sign:
 [pw8](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw8.cpp)
 *Topic: Линейный список стек и его применение (Вариант 1)*
 ____
@@ -37,15 +37,15 @@ ____
 [pw9](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw9.cpp)
 *Topic: Линейный список Очередь (Вариант 1)*
 ____
-## **Practical Work №10** :heavy_minus_sign:
+## **Practical Work №10** :grey_question:
 [pw10](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw10.cpp)
 *Topic: ---*
 ____
-## **Practical Work №11** :heavy_minus_sign: 
+## **Practical Work №11** :grey_question:
 [pw11](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw11.cpp)
 *Topic: ---*
 ____
-## **Practical Work №12** :heavy_minus_sign: 
+## **Practical Work №12** :grey_question: 
 [pw12](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw12.cpp)
 *Topic: ---*
 ____
