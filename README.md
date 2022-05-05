@@ -39,15 +39,15 @@ ____
 ____
 ## **Practical Work №10** :grey_question:
 [pw10](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw10.cpp)
-*Topic: ---*
+*Topic: Бинарное дерево поиска. AVL дерево (Вариант 1)*
 ____
 ## **Practical Work №11** :grey_question:
 [pw11](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw11.cpp)
-*Topic: ---*
+*Topic: Хеширование - прямой доступ к данным (Вариант 1)*
 ____
 ## **Practical Work №12** :grey_question: 
 [pw12](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw12.cpp)
-*Topic: ---*
+*Topic: Основные алгоритмы работы с графами (Вариант 1)*
 ____
 ## **Practical Work №13** :heavy_minus_sign: 
 [pw13](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw13.cpp)
