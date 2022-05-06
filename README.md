@@ -47,11 +47,11 @@ ____
 ____
 ## **Practical Work №12** :grey_question: 
 [pw12](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw12.cpp)
-*Topic: Основные алгоритмы работы с графами (Вариант 1)*
+*Topic: Внешние структуры данных - файлы и алгоритмы их обработки (Вариант 1)*
 ____
-## **Practical Work №13** :heavy_minus_sign: 
+## **Practical Work №13** :grey_question: 
 [pw13](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw13.cpp)
-*Topic: ---*
+*Topic: Основные алгоритмы работы с графами (Вариант 1)*
 ____
 ## **Practical Work №14** :heavy_minus_sign: 
 [pw14](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw14.cpp)
