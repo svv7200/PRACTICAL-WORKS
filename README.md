@@ -59,7 +59,7 @@ ____
 ____
 ## **Practical Work №15** :heavy_minus_sign: 
 [pw15](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw15.cpp)
-*Topic: Стратегии и методы построения алгоритмов (Вариант 4)*
+*Topic: Стратегии и методы построения алгоритмов (Вариант 1)*
 ____
 ## **Practical Work №16** :heavy_minus_sign: 
 [pw16](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw16.cpp)
