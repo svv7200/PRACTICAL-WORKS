@@ -61,6 +61,6 @@ ____
 [pw15](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw15.cpp)
 *Topic: Стратегии и методы построения алгоритмов (Вариант 1)*
 ____
-## **Practical Work №16** :heavy_minus_sign: 
+## **Practical Work №16** :grey_question: 
 [pw16](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw16.cpp)
 *Topic: Метод линейного программирования (Вариант 5)*
