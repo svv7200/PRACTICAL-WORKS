@@ -33,23 +33,23 @@ ____
 [pw8](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw8.cpp)
 *Topic: Линейный список стек и его применение (Вариант 1)*
 ____
-## **Practical Work №9** :grey_question:
+## **Practical Work №9** :heavy_plus_sign:
 [pw9](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw9.cpp)
 *Topic: Линейный список Очередь (Вариант 1)*
 ____
-## **Practical Work №10** :grey_question:
+## **Practical Work №10** :heavy_plus_sign:
 [pw10](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw10.cpp)
 *Topic: Бинарное дерево поиска. AVL дерево (Вариант 1)*
 ____
-## **Practical Work №11** :grey_question:
+## **Practical Work №11** :heavy_plus_sign:
 [pw11](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw11.cpp)
 *Topic: Хеширование - прямой доступ к данным (Вариант 1)*
 ____
-## **Practical Work №12** :grey_question: 
+## **Practical Work №12** :heavy_plus_sign:: 
 [pw12](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw12.cpp)
 *Topic: Внешние структуры данных - файлы и алгоритмы их обработки (Вариант 1)*
 ____
-## **Practical Work №13** :grey_question: 
+## **Practical Work №13** :heavy_plus_sign: 
 [pw13](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw13.cpp)
 *Topic: Основные алгоритмы работы с графами (Вариант 1)*
 ____
@@ -57,7 +57,7 @@ ____
 [pw14](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw14.cpp)
 *Topic: Алгоритмы сжатия и кодирования данных*
 ____
-## **Practical Work №15** :heavy_minus_sign: 
+## **Practical Work №15** :grey_question: 
 [pw15](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw15.cpp)
 *Topic: Стратегии и методы построения алгоритмов (Вариант 1)*
 ____
