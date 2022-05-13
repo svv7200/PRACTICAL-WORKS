@@ -53,14 +53,14 @@ ____
 [pw13](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw13.cpp)
 *Topic: Основные алгоритмы работы с графами (Вариант 1)*
 ____
-## **Practical Work №14** :heavy_minus_sign: 
+## **Practical Work №14** :grey_question: 
 [pw14](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw14.cpp)
-*Topic: ---*
+*Topic: Алгоритмы сжатия и кодирования данных*
 ____
 ## **Practical Work №15** :heavy_minus_sign: 
 [pw15](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw15.cpp)
-*Topic: ---*
+*Topic: Стратегии и методы построения алгоритмов (Вариант 4)*
 ____
 ## **Practical Work №16** :heavy_minus_sign: 
 [pw16](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw16.cpp)
-*Topic: ---*
+*Topic: Метод линейного программирования (Вариант 5)*
