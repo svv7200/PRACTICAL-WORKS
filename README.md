@@ -45,7 +45,7 @@ ____
 [pw11](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw11.cpp)
 *Topic: Хеширование - прямой доступ к данным (Вариант 1)*
 ____
-## **Practical Work №12** :heavy_plus_sign:: 
+## **Practical Work №12** :heavy_plus_sign:
 [pw12](https://github.com/svv7200/PRACTICAL-WORKS/blob/main/pw12.cpp)
 *Topic: Внешние структуры данных - файлы и алгоритмы их обработки (Вариант 1)*
 ____
